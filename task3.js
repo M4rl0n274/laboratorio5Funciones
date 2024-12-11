@@ -6,7 +6,7 @@ export function ageCalculator(y,m,d) {
     
 let edad = currentYear - y;
 
-if (currentMonth < m || (currentMonth === m && currentDay < d)){
+if (currentMonth < m || (currentMonth == m && currentDay < d)){
     edad;
 }
 return edad;
