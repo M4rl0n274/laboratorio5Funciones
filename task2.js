@@ -16,6 +16,3 @@ export class FriendNames {
 
 
 
-// *  Tarea 2: A Javiera le gustaría una forma de introducir los nombres de tres de sus amigos.
-// *1.	Exporta una clase que tomará 3 argumentos, luego construye un objeto con 3 propiedades.
-// * ○	Las 3 propiedades en el constructor deben llamarse "nombre1", "nombre2" y "nombre3".
